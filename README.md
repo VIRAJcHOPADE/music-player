@@ -1,2 +1,2 @@
-# music-player
+# Music-Player
 Created with CodeSandbox
